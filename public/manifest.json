@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "作業監視用このみ先生",
+  "description": "作業中に遊んでいるとこのみ先生に叱ってもらえます。",
+  "version": "1.0.0",
+  "icons": {
+    "48": "icons/icon_off_x48.png",
+    "128": "icons/icon_off_x128.png"
+  },
+  "browser_action": {
+    "default_title": "このみ先生",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "page": "background.html",
+    "persistent": true
+  },
+  "options_ui": {
+    "page": "options.html",
+    "chrome_style": false
+  },
+  "permissions": [
+    "http://*/",
+    "https://*/",
+    "tabs",
+    "storage"
+  ]
+}
