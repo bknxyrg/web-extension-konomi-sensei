@@ -8,7 +8,7 @@ MPAでbackground/options/popupを書き出せばそのまま動作する感。
 ### 拡張機能の有効化
 
 1. [ここ](https://github.com/BknXyRg/web-extension-konomi-sensei/releases)から拡張機能をダウンロードし、解凍する
-2. [拡張機能の設定](chrome://extensions/)を開き、"パッケージ化されていない拡張機能を読み込む"で解凍した拡張機能を指定する
+2. [拡張機能の設定](chrome://extensions/)(chrome://extensions/)を開き、"パッケージ化されていない拡張機能を読み込む"で解凍した拡張機能を指定する
 
 ### 拡張機能の使用方法
 
