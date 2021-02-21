@@ -1,7 +1,7 @@
 {
   "name": "web-extension-konomi-sensei",
   "description": "作業監視用このみ先生",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "scripts": {
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
